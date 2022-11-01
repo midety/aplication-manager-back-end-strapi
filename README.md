@@ -1,0 +1,1 @@
+# aplication-manager-back-end-strapi
